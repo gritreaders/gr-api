@@ -1,0 +1,27 @@
+{
+  "name": "gr-api",
+  "version": "0.1.0",
+  "description": "Gritreaders API",
+  "main": "src/api/index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.20.0",
+    "eslint-config-prettier": "^7.2.0",
+    "eslint-plugin-prettier": "^3.3.1",
+    "prettier": "^2.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gritreaders/gr-api.git"
+  },
+  "keywords": [],
+  "author": "Rubén Esparza <rubenesparzasoto95@gmail.com> Carlos Guzmán <cguzman@expressingenieria.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gritreaders/gr-api/issues"
+  },
+  "homepage": "https://github.com/gritreaders/gr-api#readme"
+}
